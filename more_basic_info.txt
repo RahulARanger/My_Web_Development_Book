@@ -1,0 +1,5 @@
+A lot of basic information regarding web development can be easily gathered in :
+    
+        *  https://www.w3schools.com/  (best and recommended website)
+
+        * https://learn.shayhowe.com/html-css/ (along with online pdf book) 
