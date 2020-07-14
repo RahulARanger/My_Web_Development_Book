@@ -3,3 +3,7 @@ A lot of basic information regarding web development can be easily gathered in :
         *  https://www.w3schools.com/  (best and recommended website)
 
         * https://learn.shayhowe.com/html-css/ (along with online pdf book) 
+
+list of basic elements: https://www.html5accessibility.com/html5elements/
+
+Code pen: It is best Online Editor that allows HTML,CSS<JavaScript as for writing script in that languages  (link: https://codepen.io/)

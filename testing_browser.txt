@@ -1,0 +1,6 @@
+It is important to note that different browser will have different impact on HTML documents:
+
+
+   This is the link for testing the performance of the particular browser
+      
+        just open this link in that browser: http://html5test.com/index.html
