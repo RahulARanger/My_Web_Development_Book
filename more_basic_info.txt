@@ -1,9 +1,12 @@
-A lot of basic information regarding web development can be easily gathered in :
+-> A lot of basic information regarding web development can be easily gathered in :
     
         *  https://www.w3schools.com/  (best and recommended website)
 
         * https://learn.shayhowe.com/html-css/ (along with online pdf book) 
 
-list of basic elements: https://www.html5accessibility.com/html5elements/
+-> list of basic elements: https://www.html5accessibility.com/html5elements/
 
-Code pen: It is best Online Editor that allows HTML,CSS<JavaScript as for writing script in that languages  (link: https://codepen.io/)
+-> Code pen: It is best Online Editor that allows HTML,CSS<JavaScript as for writing script in that languages  (link: https://codepen.io/)
+
+-> Semantic of the code means the giving more value towards the content on a page rather than designs.
+   Semantics helps the User and also the search engine to search for This web document easily.
