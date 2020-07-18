@@ -1,0 +1,3 @@
+This link directs us to a online tool that responds with the accessability of our given website link stats
+
+    Link: https://wave.webaim.org/
