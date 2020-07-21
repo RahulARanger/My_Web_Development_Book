@@ -1,3 +1,3 @@
 Special entities helps us to print some special characters in the p or h tags or anywhere in the HTML document.
 
-    This is the Link for more special entities: https://www.w3schools.com/html/html_entities.asp
+    This is the Link for more special entities: https://www.w3schools.com/html/html_entities.asp or this https://www.htmlhelp.com/reference/html40/entities/symbols.html
