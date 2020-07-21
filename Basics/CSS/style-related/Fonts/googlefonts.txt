@@ -1,0 +1,5 @@
+*  Google fonts is one of the best place to look over various fonts that is available in net
+*  We can utilize any one of those
+
+->  We can also copy the embed code and css code to implement the font on the HTML document 
+       refer this screenshot: Basics\CSS\style-related\Fonts\google-fonts-demo.PNG
