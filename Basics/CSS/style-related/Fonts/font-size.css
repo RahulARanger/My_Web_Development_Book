@@ -1,0 +1,16 @@
+body{
+    background-color:pink;
+}
+p{
+    color:orangered;
+}
+p.bigger{
+    font-size:40px;
+}
+p.smaller{
+    font-size:12px;
+}
+p.responsive{
+    font-size:6vw;
+    /*when the width of the browser app is reduced the size of the text also reduces */
+}

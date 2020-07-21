@@ -10,3 +10,7 @@ header{
 p{
     font-style:normal;
 }
+/*
+* italic is similar to oblique
+* oblique is less supported than the italic 
+* it is better to use italic than oblique*/

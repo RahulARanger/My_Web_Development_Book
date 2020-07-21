@@ -1,0 +1,21 @@
+body{
+    background-color:rgba(234, 250, 14, 0.774);
+}
+p{
+    color:orangered;
+}
+/* the objects of the p also refers to the default object hence  here all the objects will have color of Orange red*/
+p.bold{
+    
+    font-weight:bold;
+}
+p.bolder{
+    
+    font-weight:900;
+}
+p.normal{
+    font-weight:normal;
+}
+p.lighter{
+    font-weight:lighter;
+}
