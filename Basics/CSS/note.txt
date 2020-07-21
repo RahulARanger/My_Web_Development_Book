@@ -1,0 +1,2 @@
+CSS file can't be implemented without an HTML file 
+Hence for every CSS file i have made an HTML file of same name
