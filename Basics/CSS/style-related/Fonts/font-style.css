@@ -1,0 +1,12 @@
+body{
+    background-color:rgba(221, 11, 211, 0.815);
+}
+span{
+    font-style:oblique;
+}
+header{
+    font-style:italic;
+}
+p{
+    font-style:normal;
+}
