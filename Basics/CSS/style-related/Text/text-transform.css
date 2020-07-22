@@ -1,0 +1,17 @@
+body{
+    background-color:gold;
+}
+p{color:orangered;}
+p.upper{
+text-transform: uppercase;
+}
+p.lower{
+    text-transform: lowercase;
+}
+p.capitalize{
+    text-transform: capitalize;
+}
+a.no-underline{
+    color:orangered;
+    text-decoration: none;
+}

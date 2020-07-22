@@ -1,0 +1,12 @@
+body{
+    background-color:silver;
+}
+p.underline{
+    text-decoration:underline; 
+}
+p.overline{
+    text-decoration: overline;
+}
+p.line-through{
+    text-decoration: line-through;
+}
