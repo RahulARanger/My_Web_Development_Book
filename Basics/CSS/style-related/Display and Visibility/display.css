@@ -1,0 +1,47 @@
+body{
+    background-color:silver;
+}
+div{
+    width:150px;
+    height:150px;
+    display:inline-block;
+}
+span{
+    display:inline;
+    /*By default the default is inline we can't apply width and height to the boxes in inline display mode*/
+}
+div.check{
+background-color:pink;
+}
+div.check2{
+    background-color:red;
+    
+}
+div.check3{
+    background-color:yellow;
+    
+}
+span.test1{
+    background-color:pink;
+}
+span.test2{
+    background-color:red;
+}
+span.test3{
+    background-color:yellow;
+}
+p{
+    display:block;
+    width:150px;
+    height:150px;
+}
+p.test1{
+    background-color:pink;
+
+}
+p.test2{
+    background-color:red;
+}
+p.test3{
+    background-color:yellow;
+}

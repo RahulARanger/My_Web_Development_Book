@@ -1,0 +1,10 @@
+body{
+    background-color:silver;
+}
+img{
+    float:left;
+}
+p.clear{
+    clear:both;
+}
+
