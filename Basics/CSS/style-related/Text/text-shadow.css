@@ -1,0 +1,19 @@
+body{
+    background-color:silver;
+}
+h1{
+    text-align:center;
+    text-transform: uppercase;
+    
+}
+/* values are in order of
+Horizontal width, vertical height, color
+or 
+Horizontal width, vertical height, Blur intensity, color
+*/
+h1.shadow{
+    text-shadow:3px 3px blue;
+}
+h1.blur{
+    text-shadow: 3px 3px 3px orangered; 
+}
