@@ -1,0 +1,17 @@
+body{
+    background-color:silver;
+}
+p{
+    width:40px;
+    height:40px;
+    background-color:pink;
+}
+p.scroll{
+    overflow:scroll
+}
+p.hidden{
+    overflow:hidden;
+}
+p.auto{
+    overflow:auto;
+}

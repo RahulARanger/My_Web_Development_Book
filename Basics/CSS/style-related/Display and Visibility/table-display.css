@@ -1,0 +1,16 @@
+body{
+    background-color:silver;
+}
+div.table{
+    width:300px;
+    height:300px;
+    display:table;
+}
+div.cell{
+    background-color:orange; 
+    display:table-cell;
+
+}
+div.row{
+    display:table-row;
+}

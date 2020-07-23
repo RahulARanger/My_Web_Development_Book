@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Overflow</title>
+        <link rel="stylesheet" href='overflow.css'>
+    </head>
+    <body>
+        <h1>Overflow</h1>
+        <h3>Normal</h3><hr>
+        <p>This is a Overflowen Line</p><br>
+        <h3>Hidden</h3>
+        <hr>
+        <p class='hidden'>This is Overflowen Line</p>
+        <h3>Scroll</h3>
+        <hr>
+        <p class='scroll'>This is Overflowen Line</p>
+        <h3>Auto</h3><hr>
+        <p class='auto'>T</p>
+        <p class='auto'>This is Overflowen Line</p> <!-- uses the scroll when necessary-->
+        <h3>Overflow in Y axis </h3>
+        <hr>
+        <p style='overflow-x:hidden; overflow-y:scroll'>This Text is Overflowen in Y axis</p>
+        <h3>Overflow in X axis</h3>
+        <hr>
+        <p style='overflow-y:hidden;overflow-x:scroll'>This Text is Overflowen in X axis</p>
+        <!-- This overflow in x axis is not used at most cases since the content is only found along y axis-->
+    </body>
+</html>
