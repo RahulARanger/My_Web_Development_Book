@@ -1,0 +1,14 @@
+body{
+    background-color:lightgrey;
+}
+div{
+    padding:16px;
+    border-style:solid;
+    width:100px;
+    height:100px;
+}
+div.fixed{
+    padding:16px;
+    box-sizing: border-box;
+    overflow:auto;
+}

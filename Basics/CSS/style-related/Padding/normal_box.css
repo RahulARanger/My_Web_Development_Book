@@ -1,0 +1,16 @@
+body{
+    background-color:gold;
+}
+div{
+    border-style:solid;
+    border-width:6px;
+    width:150px;
+    padding:50px;
+}
+div.mix{
+    padding:0px;
+    padding-left:20px;
+    padding-top:30px;
+    padding-bottom:6px;
+    padding-right:7px;
+}

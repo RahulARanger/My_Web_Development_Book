@@ -12,3 +12,9 @@ div{
 div.round{
     border-radius:15px;
 }
+div.mix{
+    border-top-left-radius: 15px;
+    border-top-right-radius:50px;
+    border-bottom-left-radius: 23px;
+    border-bottom-right-radius:4px;
+}
