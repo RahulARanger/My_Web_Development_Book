@@ -2,5 +2,7 @@ This is the repo containing some basic resources for CSS:
   
          https://codepen.io/collection/noEQed/
 
+         and some more in https://codepen.io/collection/DVYVpB/?cursor=ZD0xJm89MCZwPTEmdj0zMTU2MTk1
+
 
 We can Work on CSS through one famous Online Project: http://www.csszengarden.com/         

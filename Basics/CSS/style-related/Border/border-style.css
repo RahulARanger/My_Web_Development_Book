@@ -1,0 +1,38 @@
+body{
+    background-color:rgb(245, 235, 235);
+    font-weight:bolder;
+}
+div{
+    width:100px;
+    height:100px;
+    line-height:70px;
+    text-indent:10px;
+    background-color:orangered;
+}
+div.dotted{
+    border-style:dotted ;
+}
+div.grove{
+    border-style:groove;
+}
+div.solid{
+    border-style:solid;
+}
+div.dashed{
+    border-style:dashed;
+}
+div.ridge{
+    border-style:ridge;
+}
+div.double{
+    border-style:double;
+}
+div.inset{
+    border-style:inset;
+}
+div.outset{
+    border-style:outset;
+}
+div.mixed{
+    border-style: dotted dashed solid double; /* starts from the top side of square to the left side of the square */
+}

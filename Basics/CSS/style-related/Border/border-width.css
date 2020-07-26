@@ -1,0 +1,16 @@
+body{
+    background-color:silver;
+}
+div{
+background-color:orange;
+line-height:70px;
+width:100px;
+text-indent:20px;
+border-style:solid;
+}
+div.intense{
+    border-width:30px;
+}
+div.unequal{
+    border-width:6px 3px 2px 30px; /* top,right,bottom,right*/
+}    

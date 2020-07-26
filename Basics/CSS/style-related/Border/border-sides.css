@@ -1,0 +1,26 @@
+body{
+    background-color:pink;
+}
+div{
+    background-color:orange;
+    width:100px;
+    height:100px;
+    text-indent:15px;
+    line-height: 70px;
+    
+}
+div.mixed{
+    border-top-style:solid;
+    border-top-color:red;
+    border-top-width:6px;
+    border-left-style:groove;
+    border-left-color:green;
+    border-left-width:9px;
+    border-right-style:double;
+    border-right-width:10px;
+    border-right-color:navy;
+    border-bottom-style:dashed;
+    border-bottom-color:skyblue;
+    border-bottom-width:3px;
+}
+/* this is another way to customize each side of the box */

@@ -1,0 +1,14 @@
+body{
+    font-weight:bolder;
+    background-color:#f2fe16e0;
+}
+div{
+    width:100px;
+    height:100px;
+    padding:15px;
+    line-height:70px;
+    border-style:solid;
+}    
+div.round{
+    border-radius:15px;
+}
