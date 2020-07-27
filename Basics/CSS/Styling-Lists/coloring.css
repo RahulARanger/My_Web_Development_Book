@@ -1,0 +1,33 @@
+body{
+    background-color:#ff8040;
+    font-size:30px;
+}
+ol{
+    background-color:green;
+    width:250px;
+    height:80px;
+    padding:25px;
+}
+ul{
+    background-color:pink;
+    width:250px;
+    height:80px;
+    padding:25px;
+}
+ol li{
+    font-style:italic;
+    font-size:20px;
+    background-color:black;
+    color:white;
+    width:220px;
+    height:32px;
+
+}
+ul li{
+    font-style:italic;
+    font-size:20px;
+    background-color:black;
+    color:orangered;
+    width:220px;
+    height:32px;
+}
