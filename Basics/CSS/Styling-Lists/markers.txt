@@ -1,0 +1,6 @@
+Try,
+ (this links have some good source,teehee)
+ 
+ *  To refer to this link: https://www.smashingmagazine.com/2019/07/css-lists-markers-counters/
+
+ *  refer to this too: https://css-tricks.com/almanac/properties/l/list-style/

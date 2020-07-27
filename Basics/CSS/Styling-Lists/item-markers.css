@@ -1,0 +1,28 @@
+body{
+    background-color:#ff00ff;
+    font-size:25px;
+    font-weight:bold;
+}
+li{
+    font-size:15px;
+    line-height:30px;
+}
+ol.rnum{
+    list-style-type:upper-roman;
+}
+ol.alphas{
+    list-style-type:lower-alpha;
+}
+ol.ualphas{
+    list-style-type:upper-latin ;
+}
+
+ul.di{
+    list-style-type:disc;
+}
+ul.sq{
+    list-style-type:square;
+}
+ul.custom{
+    list-style-type:'😀 ';
+}

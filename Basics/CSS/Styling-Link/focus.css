@@ -1,0 +1,7 @@
+body{
+    background-color:silver;
+}
+a:focus{
+    color:black;
+    font-size:30px;
+}
