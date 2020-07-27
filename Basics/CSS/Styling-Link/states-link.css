@@ -1,0 +1,12 @@
+body{
+    background-color:silver;
+}
+a.designed:hover{
+    color:black;
+    background-color:orangered;
+    font-size:40px;
+}
+a.designed:active{
+    color:gray;
+    background-color:black;
+}

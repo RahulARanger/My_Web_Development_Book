@@ -1,0 +1,20 @@
+body{
+    background-color:gold;
+}
+a.button{
+    background-color:red;   
+    padding:10px;
+    color:white;
+    float:left;
+    text-decoration:none;
+    font-weight:bold;
+
+}
+a.button:hover{
+    background-color:black;
+    color:orange;
+}
+a.button:active{
+    background-color:yellow;
+    color:black;
+}

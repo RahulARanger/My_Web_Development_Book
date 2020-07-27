@@ -9,5 +9,6 @@ div.spaced{
     margin-left:100px;
     margin-top:50px;
     margin-right:1000px;
+    width:300px;
 /* margin-right and margin-bottom are useless when we have height and width alloted to the box */
 }
