@@ -1,0 +1,13 @@
+body{
+    background-color:orangered;
+}
+p{
+    color:pink;
+}
+p[style='font-weight:bold;']{
+    font-size:30px;
+    color:black;
+}
+a[href='https://www.youtube.com/'][target='_blank']{
+    color:white;
+}

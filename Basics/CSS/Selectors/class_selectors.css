@@ -1,0 +1,17 @@
+div{
+    background-color:orange;
+    width:300px;
+    font-size:50px;
+    text-align:center;
+    margin:0px auto;
+}
+div.paras{
+    margin-left:50px;
+    background-color:orangered;
+}
+div.paras h3{
+    font-size:30px;
+}
+div.paras p{
+    font-size:20px;
+}

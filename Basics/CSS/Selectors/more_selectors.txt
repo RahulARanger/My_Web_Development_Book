@@ -1,0 +1,1 @@
+here's a link where we can find a lot more selectors: https://www.geeksforgeeks.org/advanced-selectors-in-css/

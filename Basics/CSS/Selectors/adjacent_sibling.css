@@ -1,0 +1,9 @@
+body{
+    color:orangered;
+}
+ol+p{
+    color:black;
+}
+p+ol{
+    color:green;
+}
