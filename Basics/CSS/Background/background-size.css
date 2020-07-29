@@ -1,0 +1,22 @@
+body{
+    background-color:orange;
+}
+div{
+    background-color:white;
+    width:1000px;
+    height:500px;
+    background-image:url('Kokoro-Connect.jpg');
+    background-repeat:no-repeat;
+    background-position:center;
+    margin-bottom:40px;
+}
+div.resized{
+    background-size: 150px 250px;
+}
+div.fitted{
+    height:600px;
+    background-size:cover;
+}
+div.contain{
+    background-size:contain;
+}

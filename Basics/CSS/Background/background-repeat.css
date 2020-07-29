@@ -1,0 +1,30 @@
+div{
+    display:inline-block;
+    width:250px;
+    height:250px;
+    background-color:white;
+    margin-right:30px;
+}
+
+div.repeat{
+    background-image:url('../FlatPreloaders/128x128/Preloader_2/Preloader_2.gif');
+}
+div.repeat-x{
+    background-image:url('../FlatPreloaders/128x128/Preloader_4/Preloader_4.gif');
+    background-repeat:repeat-x;
+}
+div.repeat-y{
+    background-image:url('../FlatPreloaders/128x128/Preloader_5/Preloader_5.gif');
+    background-repeat:repeat-y;
+}
+div.no-repeat{
+    background-image:url('../FlatPreloaders/128x128/Preloader_7/Preloader_7.gif');
+    background-repeat:no-repeat;    
+}
+body{
+    background-color:orange;
+}
+h2{
+    display:inline-block;
+    margin-right:230px;
+}

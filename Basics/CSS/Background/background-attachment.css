@@ -1,0 +1,15 @@
+body{
+    background-color:gold;
+}
+div{
+    background-image:url('Kokoro-Connect.jpg');
+    width:600px;
+    height:200px;
+    margin-bottom:50px;
+    overflow:auto;
+    
+}
+div.local{
+    background-attachment: local;
+
+}

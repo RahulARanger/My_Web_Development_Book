@@ -1,0 +1,32 @@
+body{
+    color:pink;
+    background-color:black;
+}
+h2{
+    display:inline-block;
+    margin-right:200px;
+    margin-left:6px;
+    text-decoration: underline;
+}
+div{
+    background-color:white;
+    margin-right:40px; 
+    width:300px;
+    height:300px;   
+    display:inline-block;
+    background-repeat:no-repeat;
+    padding:100px;
+    box-sizing:border-box;
+    border-style:dotted;
+    border-width: 26px;
+    border-color:orange;
+    background-image:url('Kokoro-Connect.jpg');
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+div.border{
+    background-origin:border-box;
+}
+div.content{
+    background-origin:content-box;
+}

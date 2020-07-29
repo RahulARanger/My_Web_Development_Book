@@ -2,5 +2,5 @@ body{
     background-color:gold;
 }
 ul{
-    list-style-image:url('FlatPreloaders/32x32/Preloader_1/Preloader_1.gif');
+    list-style-image:url('../FlatPreloaders/32x32/Preloader_3/Preloader_3.gif')
 }
