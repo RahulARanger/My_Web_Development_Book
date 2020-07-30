@@ -1,0 +1,3 @@
+Use this link to know more about the Gradients in CSS:
+        
+        https://learn.shayhowe.com/html-css/setting-backgrounds-and-gradients/
