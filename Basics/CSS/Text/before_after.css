@@ -1,0 +1,13 @@
+body{
+    background-color:pink;
+}
+div::after{
+    content:'wow';
+    color:red;
+    background-color:yellow;
+}
+div::before{
+    content:'lol';
+    color:orange;
+    background-color:black;
+}

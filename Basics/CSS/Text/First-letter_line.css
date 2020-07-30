@@ -1,0 +1,28 @@
+body{
+    color:orange;
+}
+div{
+    background-color:black;
+    width:1000px;
+    height:50px;
+    padding:50px;
+    margin:0px auto;
+    margin-bottom:100px;
+    margin-top:50px;
+    overflow:auto;
+}
+div.fle::first-letter{
+    font-size:40px;
+    color:red;
+    font-weight:bolder;
+}
+div.fli::first-line{
+    font-weight:bolder;
+    color:red;
+}
+div.fli:hover{
+    font-size:20px;
+}
+div.fle:hover::first-letter{
+    color:green;
+}
