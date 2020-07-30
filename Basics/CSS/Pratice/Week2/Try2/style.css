@@ -4,7 +4,7 @@ body{
 header,footer{
     background-color:rgb(135, 206, 235);
     text-align:center;
-    color:white;
+    color:rgb(255, 255, 255);
     margin-right:25px;
     margin-left:10px;
 }
@@ -17,14 +17,13 @@ nav {
 }
 nav a{
     
-    background-color:white;
+    background-color:rgb(255, 255, 255);
     display:inline-block;
     width:300px;
     height:30px;
     box-sizing:border-box;
 }
 section.half{
-    display:inline-block;
     float:left;
     width:500px;
     margin-left:10px;
