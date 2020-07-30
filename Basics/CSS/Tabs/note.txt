@@ -1,0 +1,9 @@
+Generally there are different ways to create a Tabs 
+
+Tabs are created for different purposes: 
+
+                * Opening a Different Pages
+
+                * Opening Different content within the Same Page
+
+                *...(upcoming)
