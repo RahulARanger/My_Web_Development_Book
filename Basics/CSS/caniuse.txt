@@ -1,0 +1,1 @@
+We can check whether a particular css property can used in all browsers or not (check this website): https://caniuse.com/
