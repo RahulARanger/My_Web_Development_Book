@@ -1,0 +1,32 @@
+body{
+    background-color:black;
+    color:white;
+}
+ul{
+    left:0px;
+    top:0px;/*bottom:0px; This can be replaced in this line to make sticky bottom line*/
+    padding:0;
+    margin:0px;
+    list-style-type:none;
+    position:fixed;
+    height:50px;
+    background-color:yellow;
+    width:100%;
+}
+ul li{
+    float:left;
+    background-color:yellow;
+    color:orangered;
+    width:300px;
+    padding:0px;
+    margin:0;
+    text-align:center;
+    height:50px;
+}
+ul li:hover{
+    background-color:red;
+    color:orange;
+}
+div{
+    padding-top:100px;
+}

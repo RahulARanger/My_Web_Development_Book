@@ -1,0 +1,19 @@
+ul{
+    list-style:none;
+    background-color:rgba(0, 0, 0, 0.897);
+    height:50px;
+    padding:0;
+}
+ul li{
+    height:100%;
+    font-size:25px;
+    color:orange;
+    width:150px;
+    display:inline-block;
+    text-align:center;
+    margin:0;
+}
+ul li:hover{
+    background-color:red;
+    color:yellow;
+}

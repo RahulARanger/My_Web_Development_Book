@@ -1,0 +1,31 @@
+body{
+    background-image:url('../../../FlatPreloaders/128x128/Preloader_6/Preloader_6.gif');
+    background-color:orange;
+}
+ul{
+    background-color:black;
+    color:white;
+    width:200px;    
+    margin:0px;
+    padding:0px;/*Padding Must be 0 px else it would affect the design */
+    margin-top:100px;
+    margin-left:30px;
+}
+
+ul li{
+    list-style-type:none;
+    font-weight:bolder;
+    font-size:30px;
+    padding-top:15px;
+    display:block;
+    padding-bottom:15px;
+    text-align:center;
+}
+ul li:hover{
+    background-color:yellow;
+    color:red;
+}
+ul li:active{
+    background-color:red;
+    color:yellow;
+}

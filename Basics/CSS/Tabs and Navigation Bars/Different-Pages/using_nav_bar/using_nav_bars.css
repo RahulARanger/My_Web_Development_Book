@@ -1,0 +1,35 @@
+ul{
+    list-style-type:none;
+    margin:0px;
+    left:0;
+    top:0;
+    padding:0;
+    width:100%;
+    position:fixed;
+    background-color:rgba(255, 136, 0, 0.719);
+}
+ul li{
+    float:left;
+    border-right-style:double;
+    border-color:black;
+    background-color:orange;
+    width:300px;
+    height:40px;
+}
+ul li a{
+    text-decoration:none;
+    color:black;
+    width:300px;
+    height:40px;
+    font-size:20px;
+    float:left;
+    text-align:center;
+    box-sizing:content-box;
+    padding-top:9px;
+}
+ul li.active,ul li:hover{
+    background-color:red;
+}
+ul li a.active,ul li a:hover{
+    color:yellow;
+}
