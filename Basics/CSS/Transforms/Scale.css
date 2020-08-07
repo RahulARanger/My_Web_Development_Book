@@ -1,0 +1,15 @@
+div{
+    width:300px;
+    background-color:orange;
+    height:100px;
+}
+div.scale{
+    transform:scale(2,3) translate(300px,0px);
+}
+div.scalex{
+    transform:scalex(0.5);
+}
+div.scaley{
+    transform:scaley(4) translate(0px,60px);
+}
+/* cases doesn't matter */

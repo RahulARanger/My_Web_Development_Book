@@ -1,0 +1,21 @@
+div{
+    background-color:orange;
+    width:200px;
+    height:100px;
+    position:absolute;
+    top:100px;
+    left:100px;
+}
+div:hover{
+    box-shadow:10px 3px black;
+}
+div.alongx{
+    transform:translatex(600px);
+}
+div.alongy{
+    transform:translatey(300px);
+}
+div.alongz{
+    box-shadow:10px 3px black;
+    transform: translateZ(200px);/* works like the z-index*/
+}

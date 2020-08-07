@@ -1,0 +1,16 @@
+div{
+    width:200px;
+    height:100px;
+    background-color:orange;
+    box-shadow:3px 10px black;
+
+}
+div.rotatex{
+    transform:rotatex(30deg) ;
+}
+div.rotatey{
+    transform:rotatey(30deg);
+}
+div.rotatez{
+    transform:rotatez(30deg);
+}

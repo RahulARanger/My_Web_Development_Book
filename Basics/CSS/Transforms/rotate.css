@@ -1,0 +1,8 @@
+div{
+    background-color:red;
+}
+div.rotate{
+    transform:translate(100px,0px) rotate(20deg);/* this is how multiple transform properties are implemented*/
+    text-align:center;
+    background-color:orange;
+}
