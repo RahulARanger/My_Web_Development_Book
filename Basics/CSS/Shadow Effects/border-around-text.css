@@ -1,0 +1,9 @@
+h{
+    font-weight:bolder;
+    font-size:30px;
+    text-align:center;
+    display:inline-block;
+    width:100%;
+    padding-top:30px;   
+    text-shadow:-3px 0px orange;
+}

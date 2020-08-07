@@ -1,0 +1,23 @@
+body{
+    background-image:url('../FlatPreloaders/128x128/Preloader_7/Preloader_7.gif');
+}
+div.scroll{
+    padding-top:1000px;
+}
+div.sticky{
+    position:sticky;
+    background-color:white;
+    border-style:solid;
+    color:orange;
+    top:0px;
+    width:200px;
+    left:300px;
+}
+div.fixed{
+    position:fixed;
+    bottom:0;
+    right:0;
+    background-color:white;
+    border-style:solid;
+    color:orange;
+}

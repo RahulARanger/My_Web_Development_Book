@@ -1,0 +1,14 @@
+img.Juliet,img.Romeo,img.RomeoandJuliet{
+    position:absolute;
+    top:30px;
+    left:50px;
+}
+img.Juliet{
+    z-index:-1;
+}
+img.RomeoandJuliet{
+    z-index:1;
+}
+img.Romeo{
+    z-index:0;
+}

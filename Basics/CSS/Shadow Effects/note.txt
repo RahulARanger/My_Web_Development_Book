@@ -1,0 +1,11 @@
+! Normally it is not easy to generate the box-shadows or text shadows as it is
+TODO: Hence Use this Online sites:
+                * Text-Shadow:  https://html-css-js.com/css/generator/text-shadow/
+                
+                * Box-Shadow: https://html-css-js.com/css/generator/box-shadow/
+
+! Or we may need some samples 
+TODO: Hence Refer this Sites:
+                * Text-Shadow:  https://www.codesdope.com/blog/article/25-creative-css3-text-shadow-effects-you-cant-miss/
+
+                * Box-Shadow: https://www.webfx.com/blog/images/assets/cdn.sixrevisions.com/0457-01-css-box-shadow-demo/demo.html
