@@ -1,0 +1,9 @@
+TODO: This is the links for all the Files that resolves some general questions or requ.
+
+   ! 1. How to rewrite the contents of the tag when some Action takes place
+
+       * Refer this Please : Transitions\some_examples.html and Transitions\some_examples.css
+
+   ! 2. How to cause  changes in another box by causing some actions in another
+
+       * Refer this Please : Selectors\child_selectors.html and Selectors\child_selectors.css
