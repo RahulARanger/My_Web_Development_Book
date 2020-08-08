@@ -1,0 +1,17 @@
+body{
+    background-color:black;
+}
+table{
+    width:500px;
+    height:500px;
+}
+table,th,td{
+    border-style:solid;
+    border-color:pink;
+    border-collapse:collapse;
+    color:orange;
+}
+th,td{
+    text-align:center;
+    vertical-align:center;
+}

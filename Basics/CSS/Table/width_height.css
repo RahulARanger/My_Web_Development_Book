@@ -1,0 +1,9 @@
+table{
+    width:100%;
+}
+/* table's dimensions will affect the dimensions of the all cells of the table*/
+table,td,th{
+    border-color:orange;
+    border-style:solid;
+    border-collapse:collapse;
+}

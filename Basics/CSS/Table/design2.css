@@ -1,0 +1,20 @@
+table{
+    position:relative;
+    top:200px;
+    left:500px;
+    width:300px;
+    height:200px;
+}
+table,th,td{
+    border-bottom: 1px solid rgba(255,77,18,0.81);
+    border-collapse:collapse;
+}
+th{
+    background-color:pink;
+}
+tr:nth-child(even){
+    background-color:#FFBF80;
+}
+tr:nth-child(odd){
+    background-color:#FF9933;
+}

@@ -1,0 +1,12 @@
+table{
+    width:150%;
+}
+div{
+    overflow:auto;
+}
+table,th,td{
+    border-style:solid;
+    border-width:3px;
+    border-color:orange;
+    border-collapse:collapse;
+}
