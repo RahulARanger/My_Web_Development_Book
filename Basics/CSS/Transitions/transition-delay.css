@@ -1,0 +1,17 @@
+div{
+    background-color:orange;
+    width:300px;
+    height:100px;
+    text-align:center;
+    padding-top:50px;
+    transition-duration:2s;
+}
+div:hover,div.delayed:hover{
+    transform:rotate(360deg);
+}
+div.delayed{
+    position:relative;
+    top:30px;
+    left:30px;
+    transition-delay:1s;
+}

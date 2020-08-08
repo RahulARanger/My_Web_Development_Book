@@ -1,0 +1,66 @@
+div{
+    width:70px;
+    height:70px;
+    background-color:pink;
+    float:left;
+    overflow:hidden;
+}
+span{
+    font-size:30px;
+    font-weight:bolder;
+}
+div.n:hover span{
+    display:none;
+}
+div.n:hover::after{
+    font-size:30px;
+    font-weight:bolder;
+    content:'+';
+}
+div.n:hover + div.b{
+    transform:translate(1000px,0px) rotate(720deg);
+}   
+h1{
+    clear:both;
+}
+div.b{
+    width:70px;
+    height:70px;
+    background-color:orange;
+    transition:transform 3s;
+}
+div.scale{
+    position:relative;
+    left:700px;
+    transition:background-color 2s,transform 2s;
+}
+div.scale:hover::after{
+    content:'Enlarging! Hmmmmm'
+}
+div.scale span{
+    display:none;
+}
+div.scale:hover{
+    background-color:orange;
+    transform:scale(3,3);
+}
+div.react{
+    background-color:orange;
+}
+div.change:hover{
+    background-color:pink;
+}
+div.change:active  span{
+    display:none;
+}
+div.react{
+    transition:transform 3s;
+}
+div.change:active + div.react{
+    transform:translate(1000px,0px) rotate(720deg);
+}
+div.change:active::after{
+    font-size:30px;
+    font-weight:bolder;
+    content:'+';
+}

@@ -1,0 +1,29 @@
+div{
+    border-style:solid;
+    border-color:orange;
+    border-width:6px;
+    margin-bottom:30px;
+    width:200px;
+    height:50px;
+    box-sizing:content-box;
+    text-align:center;
+    padding-top:25px;
+    transition:width 1s;
+
+}
+div.linear:hover,div.ease:hover,div.ease-in:hover,div.ease-in-out:hover,div.ease-out:hover{
+    background-color:pink;
+    width:300px;
+}
+div.linear{
+    transition-timing-function:linear;
+}
+div.ease-in{
+    transition-timing-function:ease-in;
+}
+div.ease-out{
+    transition-timing-function:ease-out;
+}
+div.ease-in-out{
+    transition-timing-function:ease-in-out;
+}
