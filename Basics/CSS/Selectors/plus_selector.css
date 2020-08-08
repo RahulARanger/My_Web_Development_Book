@@ -1,0 +1,13 @@
+div{
+    box-sizing: content-box;
+    width:200px;
+    height:100px;
+    background-color:#000000;
+    color:white;
+    margin-bottom:30px;
+}
+div.b:hover + div{
+background-color:orangered;
+color:pink;
+}
+
