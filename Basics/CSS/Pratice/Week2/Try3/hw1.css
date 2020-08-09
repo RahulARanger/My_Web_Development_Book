@@ -60,7 +60,7 @@ a  img{
 }
 section.right{
     float:right;
-    width:1050px;
+    width:1000px;
 }
 section.right h2{
     font-size:30px;
@@ -68,4 +68,4 @@ section.right h2{
 }
 section.right p{
     font-size:20px;
-}
+}   

@@ -1,0 +1,123 @@
+body{
+    margin:10px;
+    padding:1px;
+}
+header{
+    background-image:url('images/flywheel.jpg');
+    height:170px;
+    background-color:#FFF;
+    background-repeat:no-repeat;
+    background-size:cover;
+    margin-left:10px;
+    margin-right:10px;
+}
+header h1{
+    font-size:30px;
+    text-align:center;
+    color:#FFFF;
+    padding:20px;
+    box-sizing:border-box;
+}
+header nav {
+    display:inline-block;
+    box-sizing:border-box;
+    margin-left:100px;
+}
+header nav a{
+    border-style:ridge;
+    width:160px;
+    text-align:center;
+    height:50px;
+    box-sizing:border-box;
+    text-decoration:none;
+    color:rgb(14, 13, 13);
+    font: size 20px;
+    float:left;
+    padding-top:15px;
+    opacity:0.9;
+    border-color:rgb(255, 255, 255);
+    margin-right:130px;
+}
+header nav a.active, header nav a:hover{
+    background-color:rgb(255, 255, 255);
+}
+aside{
+    background-color:rgb(255, 145, 0);
+    width:270px;
+    float:left;
+    margin-left:10px;
+    height:600px;
+    padding-top:15px;
+    box-sizing: border-box;
+
+}
+a  img{
+    width:250px;
+    height:150px;
+    margin-top:15px;
+    margin-left:10px;
+    margin-bottom:15px;
+}
+section.right{
+    float:right;
+    width:1000px;
+    position:relative;
+    left:-30px;
+}
+section.right h2{
+    font-size:30px;
+    font-weight:bolder;
+}
+section.right p{
+    font-size:20px;
+}
+/*week 4 css changes*/
+table{
+    width:69%;
+    margin:0 auto;
+    height:400px;
+    -webkit-box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0); 
+    box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0);
+    color:rgb(43,0,255);
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+th{
+    -webkit-border-radius: 6px 6px 0px 0px;
+    -moz-border-radius: 6px 6px 0px 0px;
+    border-radius: 6px 6px 0px 0px;
+    background: #FF5500;
+    background: -moz-linear-gradient(top, #FF5500 0%, #95FF80 100%, #C59237 100%);
+    background: -webkit-linear-gradient(top, #FF5500 0%, #95FF80 100%, #C59237 100%);
+    background: linear-gradient(to bottom, #FF5500 0%, #95FF80 100%, #C59237 100%);
+    font-weight:bolder;
+    font-size:19px;
+    border-bottom-style:solid;
+    border-color:#FF5500;
+    border-width:3px;
+    line-height:36px;
+}
+tr td{
+    opacity:0.8;
+    font-size:15px;
+    border-radius:2px;
+    transition:transform 1s;
+}
+tr td:hover{
+    opacity:1;
+    -moz-transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    -o-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    transform: scale(1.1);
+}
+tr>th:nth-child(1),tr>td:nth-child(1){
+    text-align:left;
+    padding-left:20px;
+}
+tr>th:nth-child(3),tr>th:nth-child(2),tr>td:nth-child(2),tr>td:nth-child(3){
+    text-align:center;
+}
+tr:nth-child(odd){
+    background-color:rgb(153,255,255);
+    
+}
