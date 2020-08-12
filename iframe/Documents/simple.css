@@ -1,0 +1,9 @@
+iframe{
+    border-style:solid;
+    border-color:orange;
+    border-width:6px;
+    overflow:scroll;
+    width:100%;
+    padding:0;
+    margin:0;
+}

@@ -1,0 +1,6 @@
+ TODO: To make the embed link from the Youtube link
+ * Normally the Youtube links has watch?> replace it with embed/
+
+* Example from https://www.youtube.com/watch?v=P1cyCAUTWVg to https://www.youtube.com/embed/P1cyCAUTWVg
+
+! Refer this https://www.w3schools.com/html/html_youtube.asp for more tricks or operations performed on youtube embed links
