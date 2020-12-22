@@ -7,7 +7,7 @@ ul{
     list-style-image:url('../FlatPreloaders/32x32/Preloader_2/Preloader_2.gif');
     padding:30px;
     font-size:30px;
-    list-style-position:outside;
+    list-style-position:outside; /* default */
 }
 ul.inside{
     list-style-image:url('../FlatPreloaders/32x32/Preloader_2/Preloader_2.gif');

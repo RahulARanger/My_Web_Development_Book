@@ -5,6 +5,7 @@ img{
     float:left;
 }
 p.clear{
-    clear:both;
+    clear:left;
+    /* clear: right; clears elements to the right and both does on both sides and left for left side
 }
 

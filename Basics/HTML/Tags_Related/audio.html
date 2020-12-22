@@ -1,14 +1,14 @@
 <!DOCTYPE html>
-<html>
-    <head lang='en'>
-        <title>Adding a Audio Media</title>
+<!--This is the basic way to handle HTML's audio API-->
+<html lang='en'>
+    <head>
+        <title>Audio Tag</title>
     </head>
     <body>
-        <h3>This is the Opening of the Himouto! Umaru-Chan</h3>
-        <audio src='../Media/Umaru_opening.mp3' controls autoplay  ></audio>
-        <hr>
-        <h3>Two Openings of Noragami</h3>
-        <audio src='../Media/Noragami Openings.mp3' controls ></audio>
-        <hr>
+        <audio src='../Media/Noragami Openings.mp3' controls  type='audio/mp3'>Your Browser Doesn't support this mp3 files
+        </audio>
+        <!--This below audio tag can automatically play the audio when opened-->
+        <audio src='../Media/Umaru_opening.mp3' controls autoplay type='audio/mp3'>Your Browser Doesn't support this mp3 files</audio>
+        <!--This below tag when played , continues infinitely (loop) -->
+        <audio src='../Media/Umaru_opening.mp3' controls loop type='audio/mp3'>Your Browser Doesn't support this mp3 files</audio>
     </body>
-</html>

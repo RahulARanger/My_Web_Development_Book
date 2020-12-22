@@ -16,7 +16,9 @@ ol.alphas{
 ol.ualphas{
     list-style-type:upper-latin ;
 }
-
+li:hover{
+    font-size:20px;
+}
 ul.di{
     list-style-type:disc;
 }

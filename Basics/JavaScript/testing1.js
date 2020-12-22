@@ -1,0 +1,1 @@
+alert('Successfully Linked with HTML file')

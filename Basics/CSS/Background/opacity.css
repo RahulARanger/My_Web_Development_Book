@@ -8,5 +8,5 @@ div{
     background-image:url('images.jpg')
 }
 div.opacity:hover{
-    opacity:0.6;
+    opacity:0.6; /* decimal value ranging  from 0 to 1*/
 }
