@@ -1,0 +1,2 @@
+
+ * Best Documentation for the JavaScript is: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction
