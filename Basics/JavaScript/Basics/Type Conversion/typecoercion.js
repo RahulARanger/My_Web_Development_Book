@@ -9,7 +9,7 @@ true + false
 false == 'false'
 null == ''
 !!"false" == !!"true"
-[‘x’] == ‘x’
+['x'] == 'x'
 [] + null + 1
 [1,2,3] == [1,2,3]
 {}+[]+{}+[1]
